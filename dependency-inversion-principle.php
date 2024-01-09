@@ -1,6 +1,7 @@
 <?php
 
 // Higher layer - interface dictator
+// If an application wants to utilize a module, it must conform to all of its required interfaces.
 namespace Zarganwar\Patterns\Di\Application\Module;
 
 
